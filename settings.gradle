@@ -1,0 +1,8 @@
+rootProject.name = 'keyi'
+
+include ":ruoyi-admin"
+include ":ruoyi-common"
+include ":ruoyi-framework"
+include ":ruoyi-generator"
+include ":ruoyi-quartz"
+include ":ruoyi-system"
