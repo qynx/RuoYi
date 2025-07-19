@@ -1,4 +1,4 @@
-# clone from Ruoyi  分支：java24 为java24版本 构建使用Gradle
+#  Ruoyi Java24 Gradle
 
 
 
