@@ -1,4 +1,28 @@
-# clone from Ruoyi /java24 位java24版本
+# clone from Ruoyi  分支：java24 为java24版本 构建使用Gradle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-dd77653d7c9f197dd9d93684f3c8dcfbab6.png">
